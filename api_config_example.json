@@ -15,6 +15,9 @@
 
     "Api":[
         {
+            "type": "azure",
+            "model": "test1",
+            "base": "https://test.openai.azure.com",
             "api_token": "",
             "owner": "",
             "available": true
